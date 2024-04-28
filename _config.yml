@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Dive into our VR card game, where strategic card battles come to life in immersive virtual reality. With intuitive controls, stunning visuals, and thrilling multiplayer modes, experience the excitement of dueling opponents, casting spells, and summoning creatures in a dynamic gaming experience accessible to all.
 twitter_username: username
 github_username: Moenupa
-minimal_mistakes_skin: constrast
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
