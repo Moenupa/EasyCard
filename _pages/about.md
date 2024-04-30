@@ -3,4 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Immerse yourself in the captivating world of our VR card game, where strategy meets spectacle in a dynamic fusion of virtual reality and traditional card gameplay. Step into stunning, immersive environments as you duel opponents, cast powerful spells, and summon mythical creatures, all with the wave of your hand. With intuitive controls and vibrant visuals, players of all skill levels can experience the thrill of strategic card battles like never before. Whether you're exploring solo adventures, challenging friends in multiplayer showdowns, or trading cards in a bustling virtual marketplace, our game offers an accessible and exhilarating journey for card game enthusiasts and VR aficionados alike.
+![demo]({{ "/assets/images/garden.png" | relative_url }})
+
+Welcome, adventurers, to a realm where the shuffle of cards heralds the dawn of epic battles and legendary encounters. 
+
+Step into the immersive world of EasyCard, where the line between reality and fantasy blurs, and every flick of your wrist holds the power to shape destiny. In this VR card game, accessibility is the key to unlocking boundless adventure, where newcomers and seasoned players alike converge in a realm where strategy reigns supreme. 
+
+Prepare to be enthralled as you embark on a journey where the cards are your weapons, and victory lies within your grasp. Welcome to EasyCard, where the thrill of the game knows no bounds.
